@@ -1,0 +1,9 @@
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\obj\Debug\Exercise5.csprojAssemblyReference.cache
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\obj\Debug\Exercise5.Form1.resources
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\obj\Debug\Exercise5.Properties.Resources.resources
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\obj\Debug\Exercise5.csproj.GenerateResource.cache
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\mutas\OneDrive\Desktop\C#\Assignments\Exercise5\obj\Debug\Exercise5.pdb
